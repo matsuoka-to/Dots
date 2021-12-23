@@ -17,5 +17,3 @@ EX4 : カメラの移動
 EX5 : ECS
 ```
 
-資料  
-https://docs.google.com/presentation/d/1AopyHztgxDjbbvxLts92yjBzUJ8Y7lgHIGcG9nKod1s/edit#slide=id.p
