@@ -17,3 +17,4 @@ EX4 : カメラの移動
 EX5 : ECS
 ```
 
+![audio_visualizer](https://user-images.githubusercontent.com/84316156/147316028-5ab22b3f-d0b1-4073-a96b-de74889ca28f.gif)
